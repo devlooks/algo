@@ -36,7 +36,7 @@ public class trainningClothes {
         // 수업들을 수 있는 학생 수 확인
         for(int i : students) {
             if(i > 0) answer++;
-        }
+        } 
 
         return answer;
     }
